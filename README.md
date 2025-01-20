@@ -62,12 +62,4 @@
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webcraft0123&bg_color=144a19&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false) -->
 
-![image](https://github.com/user-attachments/assets/ba65a606-fec4-45e5-93f5-04471fbf8a47)
-![image](https://github.com/user-attachments/assets/212ba1bc-1537-46f9-bc4f-4c0f148499aa)
 
-![image](https://github.com/user-attachments/assets/ac054e22-c492-4628-bfde-27575be31b2f)
-![image](https://github.com/user-attachments/assets/0566224c-bc95-428a-9799-1a73bdc9b293)
-![image](https://github.com/user-attachments/assets/3973ce85-5785-403e-a687-cdfde03f753c)
-![image](https://github.com/user-attachments/assets/5ce29b1d-49dd-42a4-9bd8-c9ac9c193663)
-![image](https://github.com/user-attachments/assets/4ad9cb5e-97c3-46d1-bc55-44ca09615716)
-![image](https://github.com/user-attachments/assets/a3057b8d-8137-4a5b-a50b-b119927e2f2d)
